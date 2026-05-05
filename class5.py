@@ -1,5 +1,5 @@
 #1
-'''a= "king of pidaripatti"
+a= "king of pidaripatti"
 print('a')
 print(a.count(" ")+1)
 
@@ -24,7 +24,7 @@ for i in d:
 e=str(input("enter a sentanse="))
 f=str(input("enter a letter to count")) 
 print(e)
-print(e.count(f))'''
+print(e.count(f))
 
 #6
 g=str(input("enter a string = "))
